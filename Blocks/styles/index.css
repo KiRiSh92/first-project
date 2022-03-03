@@ -1,0 +1,52 @@
+@import url('../Header/header.css');
+@import url('../styles/page.css');
+@import url('../Header/logo/place/logo_place_header.css');
+@import url('../Header/logo/logo.css');
+@import url('../Header/title/header__title.css');
+@import url('../Header/subtitle/header__subtitle.css');
+@import url('../Header/main-illustraton/header__main-illustration.css');
+@import url('../header/square-pic/header__square-pic.css');
+@import url('../header/link/header__link.css');
+@import url('../Content/description/descripton.css');
+@import url('../Content/description/two-columns.css');
+@import url('../Content/description/two-columns/brief/two-columns__brief.css');
+@import url('../Content/description/two-columns/main-text/two-columns__main-text.css');
+@import url('../Content/description/two-columns/paragraph/two-columns__paragraph.css');
+@import url('../Content/description/two-columns/span-accent/two-columns__span-accent.css');
+@import url('../Content/techniques/techniques.css');
+@import url('../Content/techniques/section-title/techniques__section-title.css');
+@import url('../Content/techniques/section-subtitle/techniques__section-subtitle.css');
+@import url('../Content/techniques/cards/techniques__cards.css');
+@import url('../Content/techniques/cards/cards__item/cards__item.css');
+@import url('../Content/techniques/cards/cards__title/cards__title.css');
+@import url('../Content/techniques/cards/cards__description/cards__descripton.css');
+@import url('../Content/techniques/cards/cards__img/cards__img.css');
+@import url('../Content/digits/digits__table.css');
+@import url('../Content/digits/digits.css');
+@import url('../Content/digits/table/digits__table.css');
+@import url('../Content/digits/table/table__cell/table__cell.css');
+@import url('../Content/digits/table/table__heading/table__heading.css');
+@import url('../Content/digits/table/table__text/table__text.css');
+@import url('../Content/kaufman/kaufman.css');
+@import url('../Content/kaufman/table__cell__theme_dark/table__cell__theme_dark.css');
+@import url('../Content/kaufman/table__theme_dark/table__theme_dark.css');
+@import url('../Content/resources/resources.css');
+@import url('../Content/resources/logo-zone/resources__logo-zone.css');
+@import url('../Content/resources/logo/resources__logo.css');
+@import url('../Footer/footer.css');
+@import url('../Footer/columns/footer__columns.css');
+@import url('../Footer/columns/Column__content/content_social.css');
+@import url('../Footer/columns/Column__content/content_copyright.css');
+@import url('../Footer/columns/Column__content/column_link/column_link.css');
+@import url('../Footer/columns/Column__content/column_logo/column_logo.css');
+@import url('../Footer/columns/Column__content/column_heading/column_heading.css');
+
+
+
+/* и элемента с модификатором вида ключ-значение 
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+} */

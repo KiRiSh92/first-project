@@ -1,0 +1,41 @@
+.column_links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 16px;
+  margin-left: auto;
+}
+
+.column_link {
+  width: 100%;
+  color: white;
+  margin: 0 auto 10px 0;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  height: 16px;  
+}
+
+.column_link:link {
+  color: white;
+  text-decoration: none;
+}
+
+.column_link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.column_link:active {
+  color: white;
+  text-decoration: none;
+}
+
+.column_link:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.column_link {
+  display: inline-flex;
+}

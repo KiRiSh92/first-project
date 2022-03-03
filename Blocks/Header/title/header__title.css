@@ -1,0 +1,11 @@
+.title {
+  font-size: 102px;
+  width: 730px;
+  position: relative;
+  left: 64px;
+  font-weight: bold;
+  line-height: 96px;
+  display: inline-block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
