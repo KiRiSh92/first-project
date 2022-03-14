@@ -1,0 +1,31 @@
+.feynman__a:link {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.feynman__a:visited {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.feynmam__a:active {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.feynman__a:hover {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
+.feynman__link {
+  width: max-content;
+  margin-left: auto;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: right;
+  position: relative;
+  right: 48px;
+  top: 50%;
+}

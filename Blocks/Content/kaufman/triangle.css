@@ -1,0 +1,11 @@
+.triangle {
+  background-image: url('../../../image/triangle.svg');
+  animation: rotation 20s infinite linear;
+  position: absolute;
+  top: 0;
+  right: -210px;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
